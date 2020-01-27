@@ -10,16 +10,16 @@ The majority of customers are subscribers to the service rather than a one time 
 
 Citi Bike is available for use 24 hours/day, 7 days/week, 365 days/year, and riders have access to thousands of bikes at hundreds of stations across Manhattan, Brooklyn, Queens and Jersey City.
 
-![1]()
+![1](https://github.com/hbostanchi/hb_Bikesharing/blob/master/png/Picture1.png)
 ### Unlock
 Pick up a bike at one of hundreds of stations around Manhattan, Brooklyn, Queens and Jersey City. See bike availability on the Station Map or mobile app.
 
 
-![2]()
+![2](https://github.com/hbostanchi/hb_Bikesharing/blob/master/png/Picture2.png)
 ### Ride
 Take as many short rides as you want while your pass is active. Day Passes include unlimited 30-min rides and Annual Memberships include unlimited 45-min rides on a classic Citi Bike.
 
-![3]()
+![3](https://github.com/hbostanchi/hb_Bikesharing/blob/master/png/Picture3.png)
 ### Return
 End a ride by returning your bike to any station. Slide your bike firmly into an empty dock and wait for the green light to make sure it's locked.
 
@@ -31,7 +31,7 @@ What is the population of Des Moines? How does its population compare to the pop
 
 There is promising data to suggest that a city bike system could be integrated into Des Moines, Iowa. There are several factors based on the existing bike sharing system in New York City that would point to this success.There are 2,344,224 records in August and 13,983 unique bike records. Based on the costumer type there are over 75% subscribers that used the Citibikes daily.
 
-![Des Moines ]()
+![Des Moines ](https://github.com/hbostanchi/hb_Bikesharing/blob/master/png/Des_Moines_Montage.jpg)
 
 ## About Des Moines
 Des Moines is the capital city of Iowa. The gold-domed Iowa State Capitol building is among the 19th- and early-20th-century landmarks of the East Village area. The city's population was 216,853 as of the 2018 population estimate. The five-county metropolitan area is ranked 89th in terms of population in the United States with 655,409 residents according to the 2018 estimate by the United States Census Bureau, and is the largest metropolitan area fully located within the state. 
@@ -41,10 +41,10 @@ The census data sets, also, reveal that Des Moines population is growing year ov
 ## Weather Analysis
 
 Des Moines Weather 
-![4w]()
+![4w](https://github.com/hbostanchi/hb_Bikesharing/blob/master/png/4%20W.png)
 
 NYC Weather
-![5w]()2968
+![5w](https://github.com/hbostanchi/hb_Bikesharing/blob/master/png/5%20W.png)
 
 Finding that the weather trends for Des Moines and NYC are close to each other. Anticipating that the similiar weather trends would reflect that of similiar outdoor activities taking place. 
 
@@ -53,9 +53,9 @@ Des Moines customer could be very similar to  2018 census data citibike in New Y
 
 
 ## Sources
-•	New York Census
-•	Des Moines Census
-•	Citi Bike: How it Works
-•	Catch Des Moines: Things To Do
-•	Farmers' Market Parking
+New York Census
+Des Moines Census
+Citi Bike: How it Works
+Catch Des Moines: Things To Do
+Farmers' Market Parking
 
