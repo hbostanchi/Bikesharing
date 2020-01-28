@@ -31,7 +31,7 @@ What is the population of Des Moines? How does its population compare to the pop
 
 There is promising data to suggest that a city bike system could be integrated into Des Moines, Iowa. There are several factors based on the existing bike sharing system in New York City that would point to this success.There are 2,344,224 records in August and 13,983 unique bike records. Based on the costumer type there are over 75% subscribers that used the Citibikes daily.
 
-![Des Moines ](https://github.com/hbostanchi/hb_Bikesharing/blob/master/png/Des_Moines_Montage.jpg)
+![Des Moines ](https://github.com/hbostanchi/hb_Bikesharing/blob/master/png/des%20.png)
 
 ## About Des Moines
 Des Moines is the capital city of Iowa. The gold-domed Iowa State Capitol building is among the 19th- and early-20th-century landmarks of the East Village area. The city's population was 216,853 as of the 2018 population estimate. The five-county metropolitan area is ranked 89th in terms of population in the United States with 655,409 residents according to the 2018 estimate by the United States Census Bureau, and is the largest metropolitan area fully located within the state. 
@@ -49,15 +49,18 @@ NYC Weather
 Finding that the weather trends for Des Moines and NYC are close to each other. Anticipating that the similiar weather trends would reflect that of similiar outdoor activities taking place. 
 
 ## Analysis
-Des Moines customer could be very similar to  2018 census data citibike in New York. Although the population of Des Moines is smaller, the customer base that supports New York citibike is also present is Des Moines. Approximately 56.9% of the population is between the ages of 18-65 and 70.2% of persons over 16 are a part of the work force. People in the workforce currently spend an average of 19.2 minutes commuting to work. These numbers are conducive to a bike sharing system for several reasons. First, shorter commute times make bike travel more appealing for consumers because it’s less physically taxing on the user and less costly than driving a car. The gender distributions of the two cities are about the same (52.3% in New York to 50.8% in Des Moines) so this will likely not affect the potential usership too much. 
+### Population Breakdown
+According to the July 1, 2018 estimate from the Census data for New York City had 20.9% people under 18 and 14.1% people 65 and over. This suggests that 65% of the population is 18-64. Looking at the August 2019 Citi Bike Data for the Average Trip Duration, with the exception of those born in 1969, the length of the trips increased as the age of the riders decreased. It is more likely that those 18-64 will have the funds and need to use the bike-sharing service. The July 1, 2018 Census information for Des Moines, IA showed that Des Moines had a similar breakdown with 24.5% under 18 and 11.7% 65 and over. This means that 63.8% of the population in Des Moines is 18-64 and more likely to utilize a bike-sharing service.
+
+
 
 
 ## Sources
-•[New York Census] : https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/PST045219
-•[Des Moines Census] : https://www.census.gov/quickfacts/desmoinescityiowa
-•[Citi Bike: How it Works] :https://www.citibikenyc.com/how-it-works
-•[Catch Des Moines: Things To Do] : https://www.catchdesmoines.com/things-to-do/
-•[Farmers' Market Parking]: https://www.dsmpartnership.com/desmoinesfarmersmarket/directions-parking
+•[New York Census] (https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/PST045219)
+•[Des Moines Census] (https://www.census.gov/quickfacts/desmoinescityiowa)
+•[Citi Bike: How it Works] (https://www.citibikenyc.com/how-it-works)
+•[Catch Des Moines: Things To Do] (https://www.catchdesmoines.com/things-to-do/)
+•[Farmers' Market Parking] (https://www.dsmpartnership.com/desmoinesfarmersmarket/directions-parking)
 
 
 
