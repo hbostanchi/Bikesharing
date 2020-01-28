@@ -53,9 +53,11 @@ Des Moines customer could be very similar to  2018 census data citibike in New Y
 
 
 ## Sources
-Des Moines Census Data (Links to an external site.)
-Des Moines Tourism Website (Links to an external site.)
-New York and Des Moines McDonald's dataset:
-ny_mcdonalds.csvPreview the document
-ia_mcdonalds.csvPreview the document
+•[New York Census] : https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/PST045219
+•[Des Moines Census] : https://www.census.gov/quickfacts/desmoinescityiowa
+•[Citi Bike: How it Works] :https://www.citibikenyc.com/how-it-works
+•[Catch Des Moines: Things To Do] : https://www.catchdesmoines.com/things-to-do/
+•[Farmers' Market Parking]: https://www.dsmpartnership.com/desmoinesfarmersmarket/directions-parking
+
+
 
