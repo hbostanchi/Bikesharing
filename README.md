@@ -56,10 +56,10 @@ According to the July 1, 2018 estimate from the Census data for New York City ha
 
 
 ## Sources
-+[New York Census](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/PST045219) 
-+[Des Moines Census](https://www.census.gov/quickfacts/fact/table/desmoinescityiowa/PST045218#PST045218)
-+[Citi Bike: How it Works](https://www.citibikenyc.com/how-it-works )
-+[Catch Des Moines: Things To Do](https://www.catchdesmoines.com/things-to-do/) 
-+[Farmers' Market Parking](https://www.dsmpartnership.com/desmoinesfarmersmarket/directions-parking)
++ [New York Census](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/PST045219) 
++ [Des Moines Census](https://www.census.gov/quickfacts/fact/table/desmoinescityiowa/PST045218#PST045218)
++[ Citi Bike: How it Works](https://www.citibikenyc.com/how-it-works )
++[ Catch Des Moines: Things To Do](https://www.catchdesmoines.com/things-to-do/) 
++ [Farmers' Market Parking](https://www.dsmpartnership.com/desmoinesfarmersmarket/directions-parking)
 
 
