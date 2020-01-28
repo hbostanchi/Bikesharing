@@ -56,7 +56,7 @@ According to the July 1, 2018 estimate from the Census data for New York City ha
 
 
 ## Sources
-•[New York Census] 
+•[New York Census](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/PST045219) 
 •[Des Moines Census] 
 •[Citi Bike: How it Works] 
 •[Catch Des Moines: Things To Do] 
