@@ -24,7 +24,8 @@ Take as many short rides as you want while your pass is active. Day Passes inclu
 End a ride by returning your bike to any station. Slide your bike firmly into an empty dock and wait for the green light to make sure it's locked.
 
 # DashBoard
-[](https://public.tableau.com/profile/halleh#!/vizhome/halleh-Bostanchi_ch14/NYCCITIBIKE?publish=yes)
+[dashboard](https://public.tableau.com/profile/halleh#!/vizhome/halleh-Bostanchi_ch14/NYCCITIBIKE?publish=yes)
+
 
 # Citibike in Des Moines
 What is the population of Des Moines? How does its population compare to the population of New York City? Does the population affect the number of people who will use the bike-sharing program?
